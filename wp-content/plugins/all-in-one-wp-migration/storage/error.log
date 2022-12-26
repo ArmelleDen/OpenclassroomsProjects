@@ -1,0 +1,3 @@
+Dec 26 2022 15:46:26
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\denai\\Local Sites\\planty\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
